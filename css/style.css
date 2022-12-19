@@ -1,0 +1,22 @@
+body{
+	background-color :#02130e;
+}
+
+form{
+	background: #FFF;
+}
+
+.form-container{
+	padding: 7em;
+	box-shadow: 0px 0px 10px 0px;
+}
+.bg{
+
+	width: 120px;
+	height: 120px;
+	position: absolute;
+	top:-35px;
+	left: 40%;
+
+
+}
